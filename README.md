@@ -2,7 +2,7 @@
 The game project
 
 
-What you will demonstrate
+What you will demonstrate:
 Ability to solve small problems that are part of a larger problem
 Ability to represent solutions as combinations of blocks, conditionals and loops
 Ability to write Python code to implement solutions
